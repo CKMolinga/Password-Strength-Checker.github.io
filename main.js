@@ -17,7 +17,7 @@ function toggleMode() {
     console.log(lightMode);
     if (lightMode == false) {
         document.body.style.backgroundColor = "#041C32";
-        container.style.backgroundColor = "#5d5c67";
+        container.style.backgroundColor = "#2C3639";
         document.body.style.color = "#fff";
         mode.textContent = "LightMode"
     } else {
